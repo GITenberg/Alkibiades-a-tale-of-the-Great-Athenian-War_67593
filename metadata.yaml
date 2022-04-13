@@ -1,0 +1,41 @@
+_repo: Alkibiades-a-tale-of-the-Great-Athenian-War_67593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bromby, Charles Hamilton
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '54350'
+    url: http://www.gutenberg.org/2009/agents/54350
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Hamilton_Bromby
+  editor:
+    agent_name: Bromby, Mary
+    aliases:
+    - Bromby, Mary Hensman
+    - Hensman, Mary Ellen
+    - Bromby, Mary Hamilton
+    gutenberg_agent_id: '54328'
+    url: http://www.gutenberg.org/2009/agents/54328
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67593'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101077785028&view=1up&seq=9
+pgterms:marc905: 20200816083736bromby
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Carlos Colon, Barry Abrahamsen, Princeton University and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This book was produced from
+  images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :J. Baker and Son,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alcibiades -- Fiction'
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C. -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Alkibiades, a tale of the Great Athenian War
+url: http://www.gutenberg.org/ebooks/67593
