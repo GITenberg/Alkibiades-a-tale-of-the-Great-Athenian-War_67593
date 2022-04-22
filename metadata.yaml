@@ -1,5 +1,8 @@
 _repo: Alkibiades-a-tale-of-the-Great-Athenian-War_67593
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67593-h/images/cover.jpg
 creator:
   author:
     agent_name: Bromby, Charles Hamilton
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '54328'
     url: http://www.gutenberg.org/2009/agents/54328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67593#Alkibiades-a-tale-of-the-Great-Athenian-War
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67593'
